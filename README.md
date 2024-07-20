@@ -1,2 +1,3 @@
 # kazuo
-fondo internacional
+#fondo internacional anti saca tapetes
+#
